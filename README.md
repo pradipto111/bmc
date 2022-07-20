@@ -8,7 +8,7 @@ Hope it helps you out. Happy Reading! ✌️
 
 ### Contributing
 
-*Feel free to suggest changes in the notes through pull requests, which can be either including extra information and topics, a better source to cite, a more easy-to-understand diagram or even as small as a spelling error.*
+*Feel free to suggest changes in the notes through issues, which can be either including extra information and topics, a better source to cite, a more easy-to-understand diagram or even as small as a spelling error.*
 
 ### Contact
 
